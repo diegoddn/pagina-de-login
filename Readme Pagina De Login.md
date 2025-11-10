@@ -34,7 +34,8 @@ Este repositório contém uma **página de login responsiva** desenvolvida com *
 │ ├── assets
 │ │ └── images
 │ │ ├── fundo.jpg
-│ │ └── logomarca.png
+│ │ |── logomarca.png
+| | └── preview.png
 │ ├── css
 │ │ └── style.css
 │ └── index.html
