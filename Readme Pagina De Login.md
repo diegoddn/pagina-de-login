@@ -21,10 +21,8 @@ Este repositório contém uma **página de login responsiva** desenvolvida com *
 ---
 
 ## 📷 Preview do Projeto
-> Caso deseje, adicione aqui uma imagem demonstrativa da página.
-Exemplo:
 ```md
-![Preview da Página de Login](img/preview.png)
+![Preview da Página](public/assets/images/preview.png)
 ```
 
 ---
@@ -32,12 +30,15 @@ Exemplo:
 ## 📁 Estrutura do Projeto
 ```
 /
-├── index.html
-├── style.css
-├── /img
+├── public
+│ ├── assets
+│ │ └── images
+│ │ ├── fundo.jpg
+│ │ └── logomarca.png
+│ ├── css
+│ │ └── style.css
+│ └── index.html
 └── README.md
-```
-
 ---
 
 ## 🔗 Link do Repositório
