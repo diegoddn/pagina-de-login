@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.background-fundo {
+  background: url(../assets/images/fundo.jpg) repeat-x center bottom;
+}
+
+.borda {
+  border-radius: 25px;
+  background-color: rgba(169, 167, 167, 0.128);
+}
