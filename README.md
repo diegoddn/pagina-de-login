@@ -42,17 +42,16 @@ Este repositório contém uma **página de login responsiva** desenvolvida com *
 └── README.md
 ---
 
-
----
-
+```
 ## ▶️ Como Usar
 Clone o repositório:
-```bash
+bash
 git clone https://github.com/diegoddn/pagina-de-login.git
 ```
 
+```
 ## 🔗 Links Importantes
-- **Repositório GitHub:** [Repositório](https://github.com/diegoddn/pagina-de-login)
+- **Repositório GitHub:** [Repositório no GitHub](https://github.com/diegoddn/pagina-de-login)
 - **Deploy na Vercel:** [Página de Login](https://pagina-de-login-cyan-chi.vercel.app/)
 
 
