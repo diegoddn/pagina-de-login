@@ -43,8 +43,8 @@ Este repositório contém uma **página de login responsiva** desenvolvida com *
 ---
 
 ## 🔗 Links Importantes
-- **Repositório GitHub:** [Repositório](https://github.com/diegoddn/pagina-de-login)
-- **Deploy na Vercel:** [Página de Login](https://pagina-de-login-cyan-chi.vercel.app/)
+- [**Repositório GitHub:**](https://github.com/diegoddn/pagina-de-login)
+- [**Deploy na Vercel:**](https://pagina-de-login-cyan-chi.vercel.app/)
 
 ---
 
